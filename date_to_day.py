@@ -20,4 +20,4 @@ def date_to_day(str_date):
     res = year_to_day + month_to_day + day + leaf
     return res
 
-print(date_to_day(['20181010', '20170301', '20160501']))
+print(date_to_day(['20171231']))
